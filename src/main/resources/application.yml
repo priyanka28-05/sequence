@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/POC1?retryWrites=true&connectTimeoutMS=120000&socketTimeoutMS=120000&maxIdleTimeMS=180000
